@@ -1,10 +1,11 @@
 body{
     font-family: 'Agency FB Regular', 'Arial Narrow Bold', sans-serif;
     font-size: 16px;
-    color: #0c344c;
+    
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
+    background-color: #000080;
     background-image: url('../images/gradient1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
