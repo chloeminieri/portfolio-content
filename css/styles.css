@@ -44,7 +44,7 @@ header{
 main{
     grid-row: 2 / span 1;
     grid-column: 1;
-    background-color: #000080;
+    background-color: #02075d;
 }
 
 footer{
@@ -151,7 +151,7 @@ nav a:hover{
     position: absolute;
     top: -40px;
     z-index: 1;
-    color: black;
+    color: white;
 }
 
 .skip a:focus{
