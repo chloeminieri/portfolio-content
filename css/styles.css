@@ -47,6 +47,11 @@ main{
     background-color: #02075d;
 }
 
+.main{
+    color: white;
+    background-color: black;
+}
+
 footer{
     grid-row: auto;
     background-color: #023020;
