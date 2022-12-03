@@ -184,7 +184,7 @@ iframe{
 /* FORM */
 
 form{
-    background-color: #70a9dc;
+    background-color: #1870d5;
     border-radius: 25px;
     padding: 50px;
     margin: 10px;
@@ -214,8 +214,6 @@ form{
 
   input{
     width: 80%;
-    background-color: black;
-    color: white;
     padding: 10px;
     margin: 10px;
   }
