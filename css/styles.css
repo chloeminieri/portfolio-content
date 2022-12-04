@@ -286,6 +286,7 @@ aside {
     grid-column: 1;
     background-color: #02075d;
     background-image: url("../images/trees.jpg");
+    background-color: black;
     border-radius: 20px;
     margin: 10px;
     padding-top: 20px;
